@@ -1,0 +1,2 @@
+# ICpEP-Front-End-Web-Design-
+The project is created as a requirement for my subject " System Analysis and Design (SAD)". This project is all about a front-end web design for  a specific organization. Wherein, the function of the website is to display information about the organization, register it's members and update its member's memebership status. This project is exclusively for front-end use only. Apparently, it doesn't have a backend development. This project is created with the principle of HTML, CSS and PHP.   
